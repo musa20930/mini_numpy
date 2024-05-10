@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=68.2"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mini_numpy_Musa_Adygamov"
+version = "0.1.0"
+authors = [ {name="Musa Adygamov", email="musa20930@gmail.com"}]
+description = "My first python package published to test PyPI."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+"Programming Language :: Python :: 3",
+"License :: OSI Approved :: MIT License",
+"Operating System :: OS Independent"
+    ]
