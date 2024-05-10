@@ -53,5 +53,5 @@ Contributions are welcome! Please feel free to open an issue or submit a pull re
 
 ## License
 
-Mini Numpy is released under the [MIT License] - see the [LICENSE.md](LICENSE.md) file for details.
+Mini Numpy is released under the [MIT License] - see the [LICENSE](LICENSE) file for details.
 
